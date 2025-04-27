@@ -1,4 +1,4 @@
-# Akash Sanjay - Data Analyst Portfolio
+# Akash- Data Analyst Portfolio
 
 <div align="center">
   <img src="/api/placeholder/900/300" alt="Data Analysis Banner">
