@@ -24,7 +24,6 @@
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat)
 
 ### Visualization Tools
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=Power-BI&logoColor=black)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=Microsoft-Excel&logoColor=white)
 
@@ -37,15 +36,6 @@
 ![EDA](https://img.shields.io/badge/-Exploratory%20Data%20Analysis-FF6F00?style=flat)
 
 ## 📂 Projects
-
-### Sales Performance Analysis
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=Power-BI&logoColor=black)
-
-Analyzed and visualized a company's sales data to find trends and insights for business decision-making.
-
-[View Project](https://github.com/your-github-username/sales-analysis)
 
 ### Global Plastic Waste Analysis
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
