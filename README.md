@@ -8,7 +8,7 @@
 
 * 🎓 B.Tech (Data Science) student at Meerut Institute of Engineering and Technology.
 * 🔍 Interested in Data Analytics, Business Intelligence, and Machine Learning.
-* 📈 Skilled in **Python**, **SQL**, **Power BI**, **Excel**, and **Tableau** (currently learning more tools).
+* 📈 Skilled in **Python**, **SQL**, **Excel**, and **Tableau** (currently learning more tools).
 * 🛠️ Love working with real-world datasets and telling meaningful stories through data!
 
 ## 🛠️ Skills
