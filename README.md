@@ -1,14 +1,13 @@
-# Akash- Data Analyst Portfolio
+# Akash- 
 
 <div align="center">
-  <img src="/api/placeholder/900/300" alt="Data Analysis Banner">
 </div>
 
 ## 🚀 About Me
 
 * 🎓 B.Tech (Data Science) student at Meerut Institute of Engineering and Technology.
-* 🔍 Interested in Data Analytics, Business Intelligence, and Machine Learning.
-* 📈 Skilled in **Python**, **SQL**, **Excel**, and **Tableau** (currently learning more tools).
+* 🔍 Interested in Data Analytics,Python Devloper and Machine Learning.
+* 📈 Skilled in **Python**, **SQL**, **Excel** **Django**(currently learning more tools).
 * 🛠️ Love working with real-world datasets and telling meaningful stories through data!
 
 ## 🛠️ Skills
@@ -21,10 +20,8 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat)
-![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat)
 
 ### Visualization Tools
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=Microsoft-Excel&logoColor=white)
 
 ### Database
